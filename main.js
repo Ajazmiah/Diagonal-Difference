@@ -15,7 +15,7 @@
 // I added this comment
 master
 function diagonalDifference(arr) {
-  let leftAb = 0;
+  let leftAb = 0; 
   let rightAb = 0;
 
   arr.forEach((num, index) => {
