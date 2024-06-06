@@ -22,7 +22,7 @@ function diagonalDifference(arr) {
     leftAb = leftAb + arr[index][index];
   }); 
   arr.forEach((num, index) => {
-    rightAb = rightAb + arr[index][num.length - 1 - index]; 
+    rightAb = rightAb + arr[index][num.length - 1 - index];  
   });
 
   return Math.abs(leftAb - rightAb);
