@@ -13,7 +13,7 @@
  
 // I MADE THIS CHANGE
 // I added this comment
-master
+
 function diagonalDifference(arr) {
   let leftAb = 0; 
   let rightAb = 0;
