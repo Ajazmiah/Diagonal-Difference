@@ -1,4 +1,4 @@
-//Given a square matrix, calculate the absolute 
+//Given a square matrix, calculate the absolute  
 //difference between the sums of its diagonals.
 //THIS IS A TEST CHNAGE  
 //For example, the square matrix array is shown below:      
