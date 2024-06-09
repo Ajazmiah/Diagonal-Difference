@@ -11,7 +11,7 @@
 //Their absolute difference is . | 15 - 17| = 2;  
  feature-A
  
-// I MADE THIS CHANGE
+// I MADE THIS CHANGE 
 // I added this comment
 
 function diagonalDifference(arr) {
